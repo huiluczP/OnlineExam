@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnlineExam</string>
+
+    <string name="title">驾驶技巧文化小知识常考</string>
+    <string name="startexam">开始考试</string>
+
+    <string name="defaulttext">显示JSON测试</string>
+    <string name="defaulttime">测试会在0秒之后关闭</string>
+    <string name="send">提交</string>
+
+    <string name="scorelabel">成 绩 检 定</string>
+    <string name="back">返回</string>
+</resources>
